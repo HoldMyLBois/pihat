@@ -1,0 +1,12 @@
+For each string,
+* determine the encoding (binary, octal, hex, base64, other?)
+* decode the string
+
+Ym91bmRhcnk=
+0111010001110010011000010110100101101100
+6275636b6574
+146141156147
+01100010011011110110111001100101
+636f696c
+cG90YXRv
+MFYHA4TPOZQWY===
